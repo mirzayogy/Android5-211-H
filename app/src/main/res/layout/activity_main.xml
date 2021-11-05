@@ -30,6 +30,7 @@
         />
 
     <EditText
+        android:id="@+id/emailEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
@@ -43,6 +44,7 @@
         />
 
     <EditText
+        android:id="@+id/noHandphoneEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="phone"
@@ -55,6 +57,7 @@
         />
 
     <EditText
+        android:id="@+id/tanggalLahirEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="date"
@@ -67,6 +70,7 @@
         />
 
     <EditText
+        android:id="@+id/jarakEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="number"
