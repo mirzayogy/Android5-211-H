@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Nama"
+        android:text="@string/nama"
          />
 
     <EditText
@@ -20,26 +20,26 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
-        android:hint="Isi Nama Anda"
+        android:hint="@string/isi_nama_anda"
         />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Email"
+        android:text="@string/email"
         />
 
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
-        android:hint="Isi dengan email valid"
+        android:hint="@string/isi_dengan_email_valid"
         />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="No Handphone"
+        android:text="@string/no_handphone"
         />
 
     <EditText
@@ -51,7 +51,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tanggal Lahir"
+        android:text="@string/tanggal_lahir"
         />
 
     <EditText
@@ -63,7 +63,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Jarak (Km)"
+        android:text="@string/jarak_km"
         />
 
     <EditText
@@ -83,7 +83,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/success"
-            android:text="Simpan"
+            android:text="@string/simpan"
             android:layout_marginEnd="8dp"
             android:drawableLeft="@drawable/ic_baseline_save_24"
 
@@ -93,7 +93,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/danger"
-            android:text="Batal"
+            android:text="@string/batal"
             android:drawableLeft="@drawable/ic_baseline_cancel_24"
             />
     </LinearLayout>

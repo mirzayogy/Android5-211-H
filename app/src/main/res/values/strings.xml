@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">211 Android H</string>
     <string name="simpan_berhasil">Data berhasil disimpan</string>
+    <string name="nama">Nama</string>
+    <string name="isi_nama_anda">Isi Nama Anda</string>
+    <string name="email">Email</string>
+    <string name="isi_dengan_email_valid">Isi dengan email valid</string>
+    <string name="no_handphone">No Handphone</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="jarak_km">Jarak (Km)</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
 </resources>
